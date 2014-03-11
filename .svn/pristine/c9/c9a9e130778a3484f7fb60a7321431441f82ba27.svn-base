@@ -1,0 +1,18 @@
+<project name="ihg-selenium maven site">
+
+    <publishDate />
+    <version />
+
+    <body>
+
+        <links>
+            <item name="Apache" href="http://www.apache.org"/>
+            <item name="Maven" href="http://maven.apache.org"/>
+            <item name="parallel-webtest" href="https://github.com/dynacron-group/parallel-webtest"/>
+        </links>
+
+        <menu ref="reports" />
+
+    </body>
+
+</project>
